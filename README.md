@@ -18,4 +18,4 @@ And watch the AI find it's way through your maze.
 
 #### Video
 
-- Link to the [youtube]() video.
+- Link to the [youtube](https://youtu.be/l0zrKUR_3LM) video.
